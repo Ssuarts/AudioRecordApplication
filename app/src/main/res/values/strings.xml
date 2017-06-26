@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AudioRecordApp</string>
+    <string name="bitte_namen_der_audiodatei_eingeben">Bitte Namen der Audiodatei eingeben</string>
+    <string name="record">Record</string>
+    <string name="stop">STOP</string>
+    <string name="play">Play</string>
+    <string name="stop_playing">STOP PLAYING</string>
+</resources>
